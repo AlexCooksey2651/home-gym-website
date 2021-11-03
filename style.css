@@ -32,3 +32,11 @@ div.list {
     align-content: center;
     padding: 20px
 }
+
+.equipment {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#showMore {
+    display: none;
+}
