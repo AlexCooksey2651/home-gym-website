@@ -18,7 +18,7 @@ function toggleText() {
         showMore.style.display = "none";
         buttonText.innerHTML = "Show More";
     }
-}
+ }
 
-// document.getElementById("button").addEventListener('click', toggleText)
+// button.addEventListener('click', toggleText)
 
